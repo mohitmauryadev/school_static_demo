@@ -258,7 +258,7 @@ const Home = () => {
             <PrincipalMessagePreview
                 principalName="Mrs. Priya Singh"
                 principalDesignation="Principal, Bright Future Academy"
-                principalImage="https://i.ytimg.com/vi/fPCBNMWhr_M/maxresdefault.jpg"
+                principalImage="https://t3.ftcdn.net/jpg/08/34/74/68/360_F_834746847_SsnjLKFJhWxwjzt4kYbc2oBKsVZaur3Q.jpg"
                 imageBadge="Our Principal"
                 imageSubLabel="Leading • Inspiring • Guiding"
 
