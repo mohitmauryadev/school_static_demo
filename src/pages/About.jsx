@@ -95,7 +95,7 @@ const About = () => {
                 principalName="Dr. Ananya Sharma"
                 principalDesignation="Principal"
 
-                principalImage="https://i.ytimg.com/vi/fPCBNMWhr_M/maxresdefault.jpg"
+                principalImage="https://t3.ftcdn.net/jpg/08/34/74/68/360_F_834746847_SsnjLKFJhWxwjzt4kYbc2oBKsVZaur3Q.jpg"
 
                 principalBadge="School Leadership"
                 principalBadgeText="Leading • Inspiring • Guiding"
